@@ -1,2 +1,5 @@
-# wifi-relay-control
-Controlling 8 channel relay with web server.
+># Wiring diagram
+>![Untitled Sketch 3_bb](image/art.png)
+
+### Materials;
+- 
